@@ -1,0 +1,3 @@
+/home/kuromadoshi/helloworld/CMakeFiles/rebuild_cache.dir
+/home/kuromadoshi/helloworld/CMakeFiles/edit_cache.dir
+/home/kuromadoshi/helloworld/CMakeFiles/helloworld.dir
